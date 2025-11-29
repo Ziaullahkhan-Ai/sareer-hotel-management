@@ -1,0 +1,7 @@
+{
+  "name": "Sareer Hotel Quetta",
+  "description": "A luxurious full-stack hotel management simulation for Sareer Hotel in Quetta, Balochistan, featuring room booking, cultural highlights, and an AI concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
