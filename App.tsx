@@ -6,7 +6,7 @@ import { Rooms } from './pages/Rooms';
 import { Services } from './pages/Services';
 import { Admin } from './pages/Admin';
 
-const App: React.FC = () => {
+export const App: React.FC = () => {
   return (
     <HashRouter>
       <Layout>
@@ -21,5 +21,3 @@ const App: React.FC = () => {
     </HashRouter>
   );
 };
-
-export default App;
